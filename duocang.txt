@@ -1,6 +1,6 @@
 { "urls":
     [
-        { "url": "http://www.kouqinpu.cn/zijian.json", "name": "自建纯4K" },
+        { "url": "https://raw.githubusercontent.com/laji666/tvbox/main/zijian.json", "name": "自建纯4K" },
             
         { "url": "http://饭太硬.top/tv", "name": "饭太硬" },
         
