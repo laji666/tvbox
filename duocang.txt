@@ -6,10 +6,6 @@
         
         { "url": "http://肥猫.love", "name": "🌟肥猫🌟" },
         
-        { "url": "http://fan.xxooo.cf/tv", "name": "🌟饭备用1🌟" },
-        
-        { "url": "http://fan.888484.xyz/tv", "name": "🌟饭备用2🌟" },
-        
         { "url": "https://raw.liucn.cc/box/m.json", "name": "🌟老刘备🌟" },
         
         { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "🌟南风🌟" },
@@ -18,12 +14,14 @@
         
         { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "🤯香雅情" },
         
-        { "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json", "name": "🌟4K视界🌟" },
-        
         { "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌", "name": "📢欧歌家庭线路📢" },
         
         { "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌", "name": "💚欧歌阿里4k线路💚" },
         
-        { "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌", "name": "💖欧歌学习娱乐线路💖" }
+        { "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌", "name": "💖欧歌学习娱乐线路💖" },
+        
+        { "url": "http://fan.xxooo.cf/tv", "name": "🌟饭备用1🌟" },
+        
+        { "url": "http://fan.888484.xyz/tv", "name": "🌟饭备用2🌟" }
     ]
 }
