@@ -36,7 +36,7 @@
       "key": "Upyunso",
       "name": "👒云搜┃阿里",
       "type": 3,
-      "api": "csp_UpYun",
+      "api": "csp_Upyunso",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
