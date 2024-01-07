@@ -1,20 +1,20 @@
 {
   "analyze": [
     {
-      "id": 1, // id 唯一值不可重复
-      "name": "纯净", // 名称
-      "url": "https://im1907.top/?jx=", // 解析源地址
-      "isActive": true // 是否启用 true启用 false 禁用
+      "id": 1,
+      "name": "纯净",
+      "url": "https://im1907.top/?jx=",
+      "isActive": true
     }
   ],
   "iptv": [
     {
-      "id": 1, // id 唯一值不可重复
-      "name": "APTV", // 名称
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", // 直播源地址
-      "type": "remote", // remote为远程m3u local本地m3u文件路径
-      "isActive": true, // 是否启用 true启用 false 禁用
-      "epg": "https://epg.112114.xyz/" // 电子节目单地址
+      "id": 1,
+      "name": "APTV",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "type": "remote",
+      "isActive": true,
+      "epg": "https://epg.112114.xyz/"
     }
   ],
   "channel": [
@@ -28,16 +28,16 @@
   "sites": [
     {
       "key": "", // uuid
-      "name": "39影视",  // 名称
-      "api": "https://www.39kan.com/api.php/provide/vod/",  // 站点源地址
-      "playUrl": "", // 配合解析去url地址
-      "search": 1, // 0:关闭 1:聚合搜索 2:本站搜索
-      "group": "切片", // 分组
-      "status": false, //  已经弃用该参数
-      "isActive": true, // 是否启用 true启用 false 禁用
-      "type": 1,  // 0:cms(xml) 1:cms(json) 2:drpy 3:app(v3) 4:app(v1)
-      "id": 1,  // id 唯一值不可重复
-      "categories": "电视,影视" // 按顺序展示所配置的分类 不配置则默认展示所有分类
+      "name": "39影视",
+      "api": "https://www.39kan.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "status": false,
+      "isActive": true,
+      "type": 1,
+      "id": 1,
+      "categories": "电视,影视"
     },
   ],
   "setting": [
