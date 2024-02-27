@@ -1,6 +1,6 @@
 { "urls":
     [
-        { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/laji666/tvbox/main/zijian.json", "name": "🌟精品4K画质🌟" },
+        { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/laji666/tvbox/main/zijian.json", "name": "🌟优先 | 4K精品🌟" },
             
         { "url": "http://饭太硬.top/tv", "name": "🌟饭太硬🌟" },
         
@@ -14,7 +14,7 @@
         
         { "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "🤯香雅情" },
         
-        { "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌", "name": "📢欧歌家庭线路📢" },
+        { "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌", "name": "📢欧歌📢" },
         
         { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "💚道长💚" },
         
