@@ -10,7 +10,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt$$$https://api.wogg.xyz/$$$弹"
+      "ext": {
+        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://api.wogg.xyz/",
+        "danMu": "弹"
+      }
     },
     {
       "key": "七夜",
@@ -20,7 +25,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt"
+      "ext": {
+        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "UpYun",
@@ -30,7 +38,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt"
+      "ext": {
+        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "Upyunso",
@@ -40,17 +51,23 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt"
+      "ext": {
+        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "YiSo",
       "name": "😹易搜┃阿里",
-      "type": 3,
+      "type": 3
       "api": "csp_YiSo",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt"
+      "ext": {
+        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "PanSou",
@@ -60,7 +77,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt"
+      "ext": {
+        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "PanSearch",
@@ -70,7 +90,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt"
+      "ext": {
+        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "Zhaozy",
@@ -80,7 +103,22 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt$$$fanty$$$qqq111"
+      "ext": {
+        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "南瓜",
