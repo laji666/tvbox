@@ -18,12 +18,7 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 1,
-      "ext": {
-        "aliToken": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://api.wogg.xyz/",
-        "danMu": "弹"
-      }
+      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt"
     },
     {
       "key": "csp_AList",
@@ -42,7 +37,6 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt",
       "timeout": 30
     },
     {
@@ -52,7 +46,8 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 1,
-      "timeout": 30
+      "timeout": 30,
+      "ext": "https://m.n13.club/token/ali/tt/de50710d62b344088e457f5567fc2294.txt"
     },
     {
       "key": "YiSo",
