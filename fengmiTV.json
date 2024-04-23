@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/laji666/tvbox/main/spider.jar",
   "sites": [
     {
       "key": "Douban",
