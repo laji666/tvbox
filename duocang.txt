@@ -2,9 +2,9 @@
     [
         { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/laji666/tvbox/main/zijian.json", "name": "🌟优先 | 4K精品🌟" },
             
-        { "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json", "name": "🌟月光宝盒🌟" },
-            
         { "url": "http://饭太硬.top/tv", "name": "🌟饭太硬🌟" },
+            
+        { "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json", "name": "🌟月光宝盒🌟" },
         
         { "url": "http://肥猫.live", "name": "🌟肥猫🌟" },
         
