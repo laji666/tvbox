@@ -3,8 +3,6 @@
         { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/laji666/tvbox/main/zijian.json", "name": "🌟优先 | 4K精品🌟" },
             
         { "url": "http://饭太硬.top/tv", "name": "🌟饭太硬🌟" },
-            
-        { "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json", "name": "🌟月光宝盒🌟" },
         
         { "url": "http://肥猫.live", "name": "🌟肥猫🌟" },
         
@@ -20,7 +18,7 @@
         
         { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "💚道长💚" },
         
-        { "url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json", "name": "💖月光宝盒💖" },
+        { "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json", "name": "💖月光宝盒💖" },
         
         { "url": "http://home.jundie.top:81/top98.json", "name": "🌟俊佬🌟" },
         
