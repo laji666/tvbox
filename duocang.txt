@@ -6,6 +6,8 @@
         
         { "url": "http://肥猫.live", "name": "🌟肥猫🌟" },
         
+        { "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt", "name": "🌟OK线路🌟" },
+        
         { "url": "https://raw.liucn.cc/box/m.json", "name": "🌟老刘备🌟" },
         
         { "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "🌟南风🌟" },
