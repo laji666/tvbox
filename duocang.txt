@@ -4,7 +4,7 @@
             
         { "url": "http://www.饭太硬.com/tv", "name": "🌟饭太硬🌟" },
         
-        { "url": "http://肥猫.live", "name": "🌟肥猫🌟" },
+        { "url": "http://肥猫.com", "name": "🌟肥猫🌟" },
         
         { "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt", "name": "🌟OK线路🌟" },
         
