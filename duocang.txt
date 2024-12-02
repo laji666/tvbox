@@ -2,7 +2,7 @@
     [
         { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/laji666/tvbox/main/zijian.json", "name": "🌟优先 | 4K精品🌟" },
             
-        { "url": "http://www.饭太硬.com/tv", "name": "🌟饭太硬🌟" },
+        { "url": "http://www.饭太硬.com/tv/", "name": "🌟饭太硬🌟" },
         
         { "url": "http://肥猫.com", "name": "🌟肥猫🌟" },
         
@@ -26,12 +26,12 @@
         
         { "url": "http://rihou.cc:88/荷城茶秀", "name": "🌟荷城茶秀🌟" },
         
-        { "url": "http://fty.888484.xyz/tv", "name": "🌟饭备用1🌟" },
+        { "url": "http://www.饭太硬.xyz/tv", "name": "🌟饭备用1🌟" },
         
-        { "url": "http://fty.xxooo.cf/tv", "name": "🌟饭备用2🌟" },
+        { "url": "http://fty.888484.xyz/tv", "name": "🌟饭备用2🌟" },
         
-        { "url": "http://饭太硬.com/tv", "name": "🌟饭备用3🌟" },
+        { "url": "http://fty.xxooo.cf/tv", "name": "🌟饭备用3🌟" },
         
-        { "url": "http://饭.eu.org/tv", "name": "🌟饭备用4🌟" }
+        { "url": "http://饭太硬.com/tv", "name": "🌟饭备用4🌟" }
     ]
 }
