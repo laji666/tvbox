@@ -2,7 +2,11 @@
     [
         { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/laji666/tvbox/main/zijian.json", "name": "🌟优先 | 4K精品🌟" },
             
-        { "url": "http://www.饭太硬.com/tv/", "name": "🌟饭太硬🌟" },
+        { "url": "http://www.饭太硬.com/tv", "name": "🌟饭太硬🌟" },
+        
+        { "url": "http://www.饭太硬.net/tv", "name": "🌟饭太硬2🌟" },
+        
+        { "url": "http://www.mpanso.com/小米/DEMO.json", "name": "📢小米📢" },
         
         { "url": "http://肥猫.com", "name": "🌟肥猫🌟" },
         
@@ -18,8 +22,6 @@
         
         { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "🤯香雅情" },
         
-        { "url": "http://www.mpanso.com/小米/DEMO.json", "name": "📢小米📢" },
-        
         { "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json", "name": "💚道长💚" },
         
         { "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh", "name": "🌟欧歌🌟" },
@@ -32,6 +34,6 @@
         
         { "url": "http://fty.xxooo.cf/tv", "name": "🌟饭备用3🌟" },
         
-        { "url": "http://饭太硬.com/tv", "name": "🌟饭备用4🌟" }
+        { "url": "http://fty.333232.xyz/tv", "name": "🌟饭备用4🌟" }
     ]
 }
